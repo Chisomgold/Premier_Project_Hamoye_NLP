@@ -11,3 +11,4 @@ I served as the Query Analyst of the project with responsibilities including:
 ## Project Takeaway
 It was difficult at first to get people to participate; most people insisted they were beginners and couldn't do much. It takes a persistent and sometimes annoying lead to get things done. On that note, I think I'm interested in more data analysis projects as part of a team. Preferable, something related to health cos all this talk on foreign exchange were not as fascinating as I'd like.
 Thank you for coming to my TEDXTalk.
+# Files are on the master branch... Apparently still figuring out GitHub
